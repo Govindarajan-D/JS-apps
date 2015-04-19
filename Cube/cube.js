@@ -1,3 +1,4 @@
+//Author: Govindarajan D
 function cube(text){
 	var cubeContainer = document.getElementById("cube-container");
 	var initial = 20, offset = 0; //Alter these to change position
